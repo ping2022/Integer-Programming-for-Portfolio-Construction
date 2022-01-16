@@ -9,6 +9,7 @@ Please kindly note that this blog is designed to be used for informational and e
 
 We hope you enjoy this learning journey! Feel free to fork and play with the code for this article in this Github repo.
 
+
 # Approach
 This task will be mathematically formulated as an integer optimization problem. To demonstrate our method, we will use daily prices of the index and the component stocks of the NASDAQ-100 in 2019 and 2020, calculate the returns of the component stocks and the index in 2019 and 2020, as well as correlation matrix of stock returns, then obtain optimal solutions using 2019 price data, and evaluate the solutions using 2020 price data.
 
